@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6198" systemVersion="14A283o" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="MuicSong" representedClassName="MuicSong" syncable="YES">
+        <attribute name="isLike" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="singerImage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="singerName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="songIdentifier" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="songName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="songType" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="MuicSong" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>
